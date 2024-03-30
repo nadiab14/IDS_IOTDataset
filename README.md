@@ -18,5 +18,4 @@ Our approach leverages unsupervised learning techniques to detect anomalies and 
 - **Real-world Effectiveness**: Through validation in real-world IoT environments, the effectiveness of our framework is demonstrated.
 
 ## Experimental Results
-## Experimental Results
-For our experiments, we utilize the [IoT Network Intrusion Dataset](https://ieee-dataport.org/open-access/iot-network-intrusion-dataset) available at IEEE Dataport.
+For our experiments, we utilize the [IoT Network Intrusion Dataset](https://ieee-dataport.org/open-access/iot-network-intrusion-dataset/) available at IEEE Dataport.
